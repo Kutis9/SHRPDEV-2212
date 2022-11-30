@@ -7,6 +7,8 @@ import { getDateRangeArray } from 'office-ui-fabric-react';
 import { Data } from '../../services'
 import { ILab03 } from '../../models';
 
+// komentar
+
 export class App extends React.Component<IAppProps, IAppState> {
   constructor(props: IAppProps){
     super(props);
